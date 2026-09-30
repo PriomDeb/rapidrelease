@@ -1,0 +1,6 @@
+{
+  "name": "AI Discharge Coordinator",
+  "description": "Interactive healthcare workflow automating clinical triggers, NLP alerts, and multi-department sign-offs for patient release.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
